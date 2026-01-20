@@ -79,4 +79,63 @@ The key objectives of this dashboard are:
 
 ---
 
-## 📁 Repository Structure
+📂 Repository Contents
+
+HR Presence Dashboard.pbix – Power BI dashboard file
+
+HR-dashboard_sc.png – Dashboard screenshot
+
+README.md – Project documentation
+
+🖼 Dashboard Preview
+
+
+
+
+🚀 How to Use
+
+Clone or download this repository
+
+Open HR Presence Dashboard.pbix in Power BI Desktop
+
+Use slicers to filter by month or employee
+
+Analyze trends across presence, WFH, and leave patterns
+
+📊 Business Insights
+
+Office presence remains consistently above 90%
+
+WFH trend shows a gradual increase over time
+
+Sick leave percentage remains low and stable
+
+Mondays and Tuesdays show higher presence compared to Fridays
+
+🎯 Learning Outcomes
+
+Built an HR analytics dashboard using Power BI
+
+Applied DAX for percentage calculations
+
+Used trendlines for pattern identification
+
+Designed a clean, HR-focused reporting layout
+
+📌 Future Enhancements
+
+Add late login & early logout analysis
+
+Department-wise presence tracking
+
+Integration with live HR systems
+
+Predictive absenteeism trends
+
+🙋‍♀️ Author
+
+Shruti Adsul
+📘 BE – VLSI Design & Technology
+📊 Data Analytics & Power BI Enthusiast
+
+⭐ If you find this project useful, please ⭐ star the repository!
