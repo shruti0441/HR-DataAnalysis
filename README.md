@@ -87,10 +87,10 @@ HR-dashboard_sc.png – Dashboard screenshot
 
 README.md – Project documentation
 
+---
+
+
 ## 🖼 Dashboard Preview
-
-
-
 
 ## 🚀 How to Use
 
@@ -102,6 +102,9 @@ Use slicers to filter by month or employee
 
 Analyze trends across presence, WFH, and leave patterns
 
+---
+
+
 ## 📊 Business Insights
 
 Office presence remains consistently above 90%
@@ -111,6 +114,9 @@ WFH trend shows a gradual increase over time
 Sick leave percentage remains low and stable
 
 Mondays and Tuesdays show higher presence compared to Fridays
+
+---
+
 
 ## 🎯 Learning Outcomes
 
@@ -122,6 +128,9 @@ Used trendlines for pattern identification
 
 Designed a clean, HR-focused reporting layout
 
+---
+
+
 ## 📌 Future Enhancements
 
 Add late login & early logout analysis
@@ -131,6 +140,9 @@ Department-wise presence tracking
 Integration with live HR systems
 
 Predictive absenteeism trends
+
+---
+
 
 ## 🙋‍♀️ Author
 
