@@ -147,7 +147,6 @@ Predictive absenteeism trends
 ## 🙋‍♀️ Author
 
 Shruti Adsul
-📘 BE – VLSI Design & Technology
 📊 Data Analytics & Power BI Enthusiast
 
 ⭐ If you find this project useful, please ⭐ star the repository!
